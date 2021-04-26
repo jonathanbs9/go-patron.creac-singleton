@@ -1,0 +1,1 @@
+# go-patron.creac-singleton
